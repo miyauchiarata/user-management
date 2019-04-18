@@ -13,6 +13,7 @@
 
 - JDK
 - sbt
+- MySQL
 
 ## 使い方
 
